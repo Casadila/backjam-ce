@@ -39,6 +39,9 @@ and point to your Backjam server.
 
 ## Further information
 
+Backjam Community Edition docker image is hosted at:
+https://hub.docker.com/r/casadila/backjam-ce
+
 Backjam is still a work in progress. 
 Send feedback or bugs to feedback@backjam.com.
 
