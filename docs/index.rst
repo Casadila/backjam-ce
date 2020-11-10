@@ -1,4 +1,5 @@
-# Backjam Community Edition
+Backjam Community Edition
+==================================================
 
 Backjam allows enterprise-grade backups across all of your devices.
 
@@ -10,18 +11,22 @@ on your machine or premises, giving you total control of what you back up.
 
 More info at https://www.backjam.com.
 
-## Requirements
+# Requirements
+--------------
 
 - Docker and Docker Compose to run the server component.
 - A Mac OSX or Microsoft Windows device to back up data. More operating systems to be supported at a later date.
 
-## Getting Started
+# Getting Started
+------------------
 
 1. The given `docker-compose.yml` file demostrates how to pull the Backjam CE docker image and run. 
 Simply run the Docker container as:
-```    
+
+.. code-block::
+
     docker-compose up
-```   
+
 By default, the web administrative interfacce is available on `http://localhost:3000`. 
 Create a user account to get started. 
 
@@ -37,7 +42,8 @@ and point to your Backjam server.
 4. Sign in with your created credentials to start.
 
 
-## Further information
+# Further information
+---------------------
 
 Backjam Community Edition docker image is hosted at:
 https://hub.docker.com/r/casadila/backjam-ce
@@ -45,6 +51,7 @@ https://hub.docker.com/r/casadila/backjam-ce
 Backjam is still a work in progress. 
 Send feedback or bugs to feedback@backjam.com.
 
-## Warranty & Disclaimer
+# Warranty & Disclaimer
+-----------------------
 
 There is no warranty, use at your own risk!
