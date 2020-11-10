@@ -22,12 +22,12 @@ Simply run as:
     
     docker-compose up
    
-By default, the administrative site is available on `http://localhost:3000`. 
+By default, the web administrative interfacce is available on `http://localhost:3000`. 
 Create a user account to get started. 
 
 2. Download the client desktop software in the `download` folders for your respective OS.
 
-On Winwodws, Backjam client needs to run as Administrator mode to install.
+On Windows, Backjam client needs to run as Administrator mode to install.
 
 On Mac OSX, Backjam client requires permissions under Preferences > Security & Privacy to install.
 
