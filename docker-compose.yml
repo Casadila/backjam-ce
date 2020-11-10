@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  backjamce:
+    image: casadila/backjam-ce:1.0
+    container_name: backjam-ce
+    ports:
+      - 127.0.0.1:6003:6003
+      - 127.0.0.1:3000:3000
